@@ -1,7 +1,7 @@
 # Site settings
 title: Diksha Gautam
 description: PhD Student in Quantum Computing, University of Kent
-
+avatar: /plane_bg.png
 # Theme settings
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
